@@ -56,3 +56,7 @@ A mensagem de erro exibida não comprova, isoladamente, que houve captura de dad
 A atividade permitiu observar elementos de uma página de autenticação simulada e refletir sobre os riscos do phishing e a importância da conscientização em segurança da informação.
 
 Os testes devem permanecer restritos a ambientes autorizados e controlados.
+
+<img width="911" height="485" alt="image" src="https://github.com/user-attachments/assets/f366bce0-187d-47f5-8bfa-2f9a4072885e" />
+<img width="744" height="192" alt="image" src="https://github.com/user-attachments/assets/3f2e21ec-e316-4ed6-a119-1cbf8c103a13" />
+
